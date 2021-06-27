@@ -75,7 +75,7 @@ export default function List(props){
                    {loc}
                 </span>
               }
-              {props.title != "Sentiments" &&
+              {props.title !== "Sentiments" &&
                 <span>{loc}</span>
               }
              
