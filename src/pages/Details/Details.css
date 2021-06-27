@@ -1,0 +1,109 @@
+.main--details {
+    padding-top: 2em;
+};
+
+.image {
+    width: 10em;
+    height: auto;
+}
+.bold{
+    font-weight: bold;
+}
+.summery-text{
+    border:1px solid rgb(185 185 185 / 13%);
+    border-radius: 5px;
+    padding: 20px 10px;
+    background-color: rgb(252, 252, 252);
+    text-align: justify;
+    margin-bottom: 10px;
+}
+.newspaper-info{
+    margin-right: 10px;
+}
+.location{
+    border:1px solid rgb(228, 221, 221);
+    background-color: #f7f7f7;
+    border-radius: 2px;
+    margin-left: 7px;
+    color: #2d2d2d;
+    min-width: 100px;
+}
+
+.progress{
+
+    max-width: 100%;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: white;
+    height: auto;
+
+}
+
+.img-top{
+
+    /* height: 10%; */
+    /* max-width: 80%; */
+    margin: auto;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 300px;
+    box-shadow: 0px 0px 8px 1px #d0d0d0;
+    border-radius: 5px;
+
+}
+
+.card{
+    border: 1px solid rgb(185 185 185 / 13%);
+}
+
+.card-header{
+    background-color: rgb(255 255 255);
+    
+}
+
+.main-box{
+    box-shadow:  0px 0px 20px 8px #f1f1f1;
+}
+
+.card-title{
+   font-size: x-large;
+}
+
+.card-text{
+    color: #6c757d;
+}
+
+.icon{
+    color: #bd2121;
+    margin-right: 10px;
+    width: 18px;
+    height: 18px;
+    vertical-align: text-top;
+}
+
+.flex-wrap{
+    margin-bottom: 30px;
+    border: 1px solid #ecececba;
+    padding: 15px;
+    margin-left: .5rem;
+    border-top: 0px;
+}
+
+.item-head{
+
+    border: 1px solid #ecececba;
+    padding: 15px;
+    background-color: #ececec61;
+
+
+}
+
+.read-externel{
+    display: block;
+    margin-top: 10px;
+    color:#bd2121;
+}
+
+.read-externel a{
+    color:#bd2121;
+}

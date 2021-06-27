@@ -1,0 +1,44 @@
+.result {
+    width: 250px;
+    padding: 5px;
+    
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px;
+    margin-bottom: 3px;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.result:hover,
+.result:active {
+    background-color: #C0DDF5;
+}
+
+.title-style {
+    vertical-align: middle;
+    color: #f50037e3;
+    font-weight: bold;
+}
+
+.summary-style{
+    color: #424242;
+
+}
+
+a:hover {
+    text-decoration: none;
+  }
+
+.card-img-top {
+    min-width: 3em;
+    max-width: 100%;
+    height: auto;
+    max-height: 12em;
+    vertical-align: middle;
+    margin-right: 20px;
+
+    border-radius: 0px !important;
+}
+
